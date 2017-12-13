@@ -1,0 +1,5 @@
+com\liujiaming\model\user_t.class
+com\liujiaming\dao\UserDao.class
+com\liujiaming\service\UserService.class
+com\liujiaming\service\impl\UserServiceImpl.class
+com\liujiaming\controller\UserController.class
